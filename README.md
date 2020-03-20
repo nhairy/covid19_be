@@ -1,2 +1,2 @@
 # covid19_be
-Data and analysis on the COVID-19 pandemic
+Data repository and analysis on the COVID-19 pandemic
